@@ -1,0 +1,5 @@
+﻿  main.c
+  vector.c
+  Kod Üretiliyor...
+C:\Users\ahmet\Masaüstü\Dynamic_Array_Data_Structure\Vector\Vector\vector.c(56,2): warning C4047: 'return': 'int', yöneltme düzeyi sayısı bakımından 'valueType *' ile aynı değil
+  Vector.vcxproj -> C:\Users\ahmet\Masaüstü\Dynamic_Array_Data_Structure\Vector\x64\Debug\Vector.exe
