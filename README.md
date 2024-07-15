@@ -1,13 +1,12 @@
-Dynamic Array Data Structure
+# Dynamic Array Data Structure
+
 This repository contains the implementation of a dynamic array data structure in C. Dynamic arrays are resizable arrays that provide the benefits of array-based data structures with the flexibility to resize at runtime.
 
-Features
-Dynamic resizing: Automatically expands and contracts as elements are added or removed.
-Efficient access: Provides constant-time access to elements by index.
-Easy to use: Simple API for common array operations.
-Getting Started
-Prerequisites
-C Compiler (GCC, Clang, etc.)
+## Features
+
+- **Dynamic resizing:** Automatically expands and contracts as elements are added or removed.
+- **Efficient access:** Provides constant-time access to elements by index.
+- **Easy to use:** Simple API for common array operations.
 
 API Reference
 
