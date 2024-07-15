@@ -10,6 +10,7 @@ Prerequisites
 C Compiler (GCC, Clang, etc.)
 
 API Reference
+
 HndVector initVector();
 HndVector initVectorCapacity(int capacity);
 int getSize(HndVector hnd);
